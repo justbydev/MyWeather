@@ -40,6 +40,9 @@ Glide를 사용하였습니다.<br>
 * 내 일기 화면<br>
 ![guide4](https://user-images.githubusercontent.com/17876424/106134258-a32dff00-61a9-11eb-8545-37337b473178.png)<br>
 
-## 10. 마켓 출시 화면
+## 10. 전체 이미지
+![전체 이미지](https://user-images.githubusercontent.com/17876424/106140400-12a7ec80-61b2-11eb-81a5-19b954f377c6.PNG)
+
+## 11. 마켓 출시 화면
 ![마켓](https://user-images.githubusercontent.com/17876424/106134449-e5574080-61a9-11eb-9d6a-0d1e8dd8fa94.jpg)<br>
 구글플레이 마켓 주소: https://play.google.com/store/apps/details?id=com.aram.weatherdiary
